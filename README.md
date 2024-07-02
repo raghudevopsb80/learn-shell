@@ -1,4 +1,3 @@
 # learn-shell
 
-We are going to learn Bash Shell Script 
-
+We are going to learn Bash Shell Scripting
