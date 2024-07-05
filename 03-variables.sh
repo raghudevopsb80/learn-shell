@@ -35,5 +35,8 @@ echo Value of y from CLI - $y
 # Approach 2 - bash 03-variables.sh 100 200
 echo First Argument - $1
 echo Second Argument - $2
+echo All arguments - $*
+echo Argument Count - $#
+
 
 
