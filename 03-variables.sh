@@ -42,3 +42,10 @@ echo Argument Count - $#
 echo Enviornment Variable z - $z
 
 
+# Variable names can have alphabets, numbers and _ (Same for Function also)
+# Variable name styles. Ex: variable name is coursename
+# CamelCase - courseName
+# PascalCase - CourseName
+# snake case - course_name
+# UNIX Way ( Later Linux) - COURSE_NAME
+
