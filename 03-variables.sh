@@ -28,9 +28,12 @@ add=$((2+3+4))
 echo 2+3+4 - $add
 
 # You can access variables from CLI
-# Approach 1 - x=100 bash 03-variables.sh
+# Approach 1 - x=100 y=200 bash 03-variables.sh
 echo Value of x from CLI - $x
-echo Value of x from CLI - $y
+echo Value of y from CLI - $y
 
-# Appr
+# Approach 2 - bash 03-variables.sh 100 200
+echo First Argument - $1
+echo Second Argument - $2
+
 
