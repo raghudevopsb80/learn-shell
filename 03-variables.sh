@@ -12,4 +12,4 @@ echo ${name} Training - Faculty ${faculty}
 
 # When to use {} while accessing variable - In case if you have to print string with combination of variables
 apple=20
-echo Apple price - $appleDollars
+echo Apple price - ${apple}Dollars
