@@ -7,3 +7,9 @@
 
 echo *
 echo "*"
+
+# single quotes are literal quoting( strict quoting)
+# double quotes are liberal quoting( less strict quoting)
+a=10
+echo 'a is $a'
+echo "a is $a"
