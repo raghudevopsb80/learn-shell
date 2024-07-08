@@ -16,3 +16,10 @@ for i in apple banana orange ; do
   sleep 1
 done
 
+#items=$(cat file)
+#
+#for i in $items ; do
+#  echo Fruit Name - $i
+#  sleep 1
+#done
+

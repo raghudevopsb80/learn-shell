@@ -70,3 +70,12 @@ sed 's/bash/BASH/' passwd
 sed 's/bash/ksh/' passwd
 sed '/roboshop/ s/bash/ksh/' passwd
 ```
+
+
+While we learn any coding, These 4 are kind of pillars to learn
+
+1. Variables
+2. Functions 
+3. Conditions
+4. Loops 
+
